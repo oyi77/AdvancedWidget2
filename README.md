@@ -1,7 +1,5 @@
 # AdvancedWidget2
 
-# AdvancedWidget1
-
 Created By :
 * NIS    : 4380/1278.063
 * Name   : Muchammad Fikri Izzuddin
